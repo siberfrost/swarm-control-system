@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T20:17:07.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="T_AZLpzOCZQIh4d1kYi0" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T21:57:27.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tcVH7KJJxFU1lugXVbPV" version="17.4.6" type="github">
   <diagram name="Page-1" id="19d8dcba-68ad-dc05-1034-9cf7b2a963f6">
-    <mxGraphModel dx="657" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,13 +16,13 @@
         <mxCell id="w3keysCAoptLK3yQDe_g-2" value="Глава 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w3keysCAoptLK3yQDe_g-3" value="Мультиагентные симуляции" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w3keysCAoptLK3yQDe_g-3" value="Определение мультагентных систем" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w3keysCAoptLK3yQDe_g-5" value="Определение мультагентных систем" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w3keysCAoptLK3yQDe_g-5" value="Мультиагентные симуляции" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w3keysCAoptLK3yQDe_g-11" value="Проблемы мультиагентных систем" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w3keysCAoptLK3yQDe_g-11" value="Проблемы роевой робототехники" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w3keysCAoptLK3yQDe_g-27" style="curved=1;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;align=center;strokeColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w3keysCAoptLK3yQDe_g-16" target="w3keysCAoptLK3yQDe_g-26">
